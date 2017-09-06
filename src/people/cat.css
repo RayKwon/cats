@@ -1,0 +1,11 @@
+.cat {
+  text-align: left;
+}
+
+.cat--owner {
+
+}
+
+.cat--pet {
+  text-indent: 2em;
+}

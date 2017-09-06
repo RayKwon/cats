@@ -1,0 +1,18 @@
+.group-title {
+  text-align: left;
+}
+
+.actions {
+  text-align: left;
+  padding: 1em;
+}
+
+.btn-reload {
+  padding: 0.4em 1.5em;
+  background-color: #001cb0;
+  border-color: #001cb0;
+  color: #fff;
+  border-radius: 3px;
+  font-size: 1em;
+  cursor: pointer;
+}
